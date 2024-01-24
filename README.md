@@ -39,19 +39,3 @@ BMI is given as a number
 # summary of dataset
 summary(lhs)
 ```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
